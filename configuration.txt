@@ -1,6 +1,3 @@
 23
 31
-
-prima linie sunt nr de oameni
-
-a doua linie sunt nr de zile din luna
+test.csv
